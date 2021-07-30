@@ -17,7 +17,7 @@ For this challenge, the datasets were provided from Citibike's database.  The sn
 
 As depicted in the Figure1, the data first point shows a high concentraion of starting points on the map.  The darker images shows the highest numbers as those are more popular tourist destinations.
 
-![TopStartLoc.PNG](resources/TopStartLoc.PNG)
+![TopStartLoc.PNG](./resources/TopStartLoc.PNG)
 
 #### Figure1
 
@@ -25,10 +25,10 @@ It was also determined that the average trip duration was higher with older clie
 
 When observing the trips by weekday, there were some clear indicators of peak usage.  Mostly during the rush hour times of 7-9am and 5-7pm.  Another interesting observation was that the count of rides was definitely higher Mondays, Tuesdays, Thursdays and Fridays.  See Figure2
 
-![UserTripsByGenderWeekday.PNG](resources/UserTripsByGenderWeekday.PNG)
+![UserTripsByGenderWeekday.PNG](./resources/UserTripsByGenderWeekday.PNG)
 
 #### Figure2
 
 ## Conclusion
 
-In conclusion, Citibike can utilize this information to populate the higher traffic areas with more male-sized bikes, as that seems to be the more popular gender clientele.  Also, during peak times, possibly allow a peak-usage fee, to gain a higher profit margin.  Or another way of utilizing this data is to market to more of the female clientele, by adding smaller framed bikes to suit that clientele.  These are just a few examples of how Citibike can utilize this data.  has many options in terms of utilizing this data.
+In conclusion, Citibike can utilize this information in many different ways.  One example is to populate the higher traffic areas with more male-sized bikes, as that seems to be the more popular gender clientele.  Also, during peak times, possibly allow a peak-usage fee, to gain a higher profit margin.  Or another way of utilizing this data is to market to more of the female clientele, by adding smaller framed bikes to suit and to help gain popularity with female riders.  Citibike has many options in terms of utilizing this data and I think they will be able to uncover even more data in the coming months with these new changes.
