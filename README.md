@@ -17,7 +17,7 @@ For this challenge, the datasets were provided from Citibike's database.  The sn
 
 As depicted in the Figure1, the data first point shows a high concentraion of starting points on the map.  The darker images shows the highest numbers as those are more popular tourist destinations.
 
-![TopStartLoc.PNG](./resources/TopStartLoc.PNG)
+![TopStartLoc.PNG](resources/TopStartLoc.PNG)
 
 #### Figure1
 
@@ -25,7 +25,9 @@ It was also determined that the average trip duration was higher with older clie
 
 When observing the trips by weekday, there were some clear indicators of peak usage.  Mostly during the rush hour times of 7-9am and 5-7pm.  Another interesting observation was that the count of rides was definitely higher Mondays, Tuesdays, Thursdays and Fridays.  See Figure2
 
-![UserTripsByGenderWeekday.PNG](./resources/UserTripsByGenderWeekday.PNG)
+Click here to view the entire Tableau story: https://public.tableau.com/app/profile/wendy.mudzinski/viz/UCB-coursework/Story1
+
+![UserTripsByGenderWeekday.PNG](resources/UserTripsByGenderWeekday.PNG)
 
 #### Figure2
 
